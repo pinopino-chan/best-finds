@@ -253,5 +253,20 @@
       "short-017"
     ],
     "youtube_id": "po7opIqZpqA"
+  },
+  {
+    "id": "018",
+    "asin": "B0FGB69DG7",
+    "title": "Tapo 2K Indoor/Outdoor Pan/Tilt Wired Security Camera, Baby Monitor, C217",
+    "price": "",
+    "category": "Health",
+    "tags": "thermometer baby health medical",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FGB69DG7.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0FGB69DG7/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-018"
+    ],
+    "youtube_id": "V_b8jvETmz0"
   }
 ]
