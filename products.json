@@ -9,7 +9,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0824XNJSW.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0824XNJSW/?tag=test-20",
     "featured": true,
-    "shorts": ["short-001"],
+    "shorts": [
+      "short-001"
+    ],
     "youtube_id": "oUBO9AZ2dzc"
   },
   {
@@ -22,7 +24,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0D6V1H9PM.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0D6V1H9PM/?tag=test-20",
     "featured": true,
-    "shorts": ["short-002"],
+    "shorts": [
+      "short-002"
+    ],
     "youtube_id": "JaebNJBd_Qw"
   },
   {
@@ -35,7 +39,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0FRRMD96F.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0FRRMD96F/?tag=test-20",
     "featured": true,
-    "shorts": ["short-003"],
+    "shorts": [
+      "short-003"
+    ],
     "youtube_id": "cukbYoaRpg8"
   },
   {
@@ -48,7 +54,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0FRF3XGQ4.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0FRF3XGQ4/?tag=test-20",
     "featured": false,
-    "shorts": ["short-004"],
+    "shorts": [
+      "short-004"
+    ],
     "youtube_id": "YpIAs7wrJ10"
   },
   {
@@ -61,7 +69,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFXV6ZPM.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0DFXV6ZPM/?tag=test-20",
     "featured": false,
-    "shorts": ["short-005"],
+    "shorts": [
+      "short-005"
+    ],
     "youtube_id": "U0rAcBpjocI"
   },
   {
@@ -74,7 +84,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07CRG94G3.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B07CRG94G3/?tag=test-20",
     "featured": false,
-    "shorts": ["short-006"],
+    "shorts": [
+      "short-006"
+    ],
     "youtube_id": "7KNI9FT7n4o"
   },
   {
@@ -87,7 +99,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B00R3N712M.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B00R3N712M/?tag=test-20",
     "featured": false,
-    "shorts": ["short-007"],
+    "shorts": [
+      "short-007"
+    ],
     "youtube_id": "CFf8jNUmj1U"
   },
   {
@@ -100,7 +114,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B088396TM2.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B088396TM2/?tag=test-20",
     "featured": false,
-    "shorts": ["short-008"],
+    "shorts": [
+      "short-008"
+    ],
     "youtube_id": "iB68tB1VbmY"
   },
   {
@@ -113,7 +129,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0B5F9SZW7.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0B5F9SZW7/?tag=test-20",
     "featured": false,
-    "shorts": ["short-009"],
+    "shorts": [
+      "short-009"
+    ],
     "youtube_id": "s__DEcbW1N0"
   },
   {
@@ -126,7 +144,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0CC9DXVPF.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0CC9DXVPF/?tag=test-20",
     "featured": false,
-    "shorts": ["short-010"],
+    "shorts": [
+      "short-010"
+    ],
     "youtube_id": "YqwPv4AdRio"
   }
 ]
