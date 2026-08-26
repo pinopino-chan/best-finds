@@ -313,5 +313,20 @@
       "short-021"
     ],
     "youtube_id": "rppRIrFvcnw"
+  },
+  {
+    "id": "022",
+    "asin": "B09B94RL1R",
+    "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Glacier White",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B94RL1R.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B94RL1R/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-022"
+    ],
+    "youtube_id": "g9diTrKEzU4"
   }
 ]
