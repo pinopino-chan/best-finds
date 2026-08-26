@@ -193,5 +193,20 @@
       "short-013"
     ],
     "youtube_id": "HxycEXSrsIA"
+  },
+  {
+    "id": "014",
+    "asin": "B07D42ZV9D",
+    "title": "j5create USB-C Mini Dock-Type C Hub with 2X HDMI, 2X USB 3.0, Ethernet",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07D42ZV9D.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07D42ZV9D/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-014"
+    ],
+    "youtube_id": "sSHlSvzKHNo"
   }
 ]
