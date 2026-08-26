@@ -283,5 +283,20 @@
       "short-019"
     ],
     "youtube_id": "zkCj_zm-ZcU"
+  },
+  {
+    "id": "020",
+    "asin": "B09B2SBHQK",
+    "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B2SBHQK.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B2SBHQK/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-020"
+    ],
+    "youtube_id": "h09vx-HKPdU"
   }
 ]
