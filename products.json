@@ -238,5 +238,20 @@
       "short-016"
     ],
     "youtube_id": "OqMxB6yQYKI"
+  },
+  {
+    "id": "017",
+    "asin": "B09BJMY8HL",
+    "title": "Amazon Product B09BJMY8HL",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09BJMY8HL.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09BJMY8HL/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-017"
+    ],
+    "youtube_id": "po7opIqZpqA"
   }
 ]
