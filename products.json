@@ -343,5 +343,20 @@
       "short-023"
     ],
     "youtube_id": "juke6RKpnQY"
+  },
+  {
+    "id": "024",
+    "asin": "B09B8V1LZ3",
+    "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B8V1LZ3.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B8V1LZ3/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-024"
+    ],
+    "youtube_id": "YLe_jGYgZWY"
   }
 ]
