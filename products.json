@@ -328,5 +328,20 @@
       "short-022"
     ],
     "youtube_id": "g9diTrKEzU4"
+  },
+  {
+    "id": "023",
+    "asin": "B09B9CD1YB",
+    "title": "Amazon Echo Dot Kids (newest model), Smart speaker to enjoy age-appropriate audiobooks, sleep routines and Alexa+ experiences to create and learn, Owl design",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B9CD1YB.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B9CD1YB/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-023"
+    ],
+    "youtube_id": "juke6RKpnQY"
   }
 ]
