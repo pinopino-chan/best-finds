@@ -208,5 +208,20 @@
       "short-014"
     ],
     "youtube_id": "sSHlSvzKHNo"
+  },
+  {
+    "id": "015",
+    "asin": "B09B6XV6VB",
+    "title": "Govee Smart Light Bulbs, A19 Color Changing Light Bulb, 800 LM, E26 Base",
+    "price": "",
+    "category": "Home",
+    "tags": "home gadget organizer",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B6XV6VB.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B6XV6VB/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-015"
+    ],
+    "youtube_id": "-QoMUMHzSuc"
   }
 ]
