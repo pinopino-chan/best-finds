@@ -148,5 +148,20 @@
       "short-010"
     ],
     "youtube_id": "YqwPv4AdRio"
+  },
+  {
+    "id": "011",
+    "asin": "B0GRJVBPH3",
+    "title": "Oura Ring 5 Smart Ring - Silver - Size 9 - Fitness & Sleep Tracker",
+    "price": "",
+    "category": "Fitness",
+    "tags": "fitness tracker exercise health",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GRJVBPH3.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0GRJVBPH3/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-011"
+    ],
+    "youtube_id": "kqPIHIqAvrk"
   }
 ]
