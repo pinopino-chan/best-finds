@@ -26,6 +26,7 @@ function trackAmazonClick(product){
 
 function card(p){
   const safeUrl = esc(p.amazon);
+  const ytUrl = p.youtube_id ? `https://www.youtube.com/shorts/${esc(p.youtube_id)}` : "";
   return `<article class="card">
     <a class="card-img" href="${safeUrl}" target="_blank" rel="sponsored nofollow noopener" data-amazon="${esc(p.id)}">
       <img src="${esc(p.image)}" alt="${esc(p.title)}" loading="lazy" onerror="this.style.display='none'">
@@ -34,6 +35,7 @@ function card(p){
       ${p.featured ? '<span class="badge">FEATURED</span>' : ''}
       <h3>${esc(p.title)}</h3>
       <div class="meta"><span>${esc(p.category)}</span><span class="price">${esc(p.price || "")}</span></div>
+      ${ytUrl ? `<a class="shorts-link" href="${ytUrl}" target="_blank" rel="noopener">▶ Watch on YouTube Shorts</a>` : ""}
       <a class="amazon" href="${safeUrl}" target="_blank" rel="sponsored nofollow noopener" data-amazon="${esc(p.id)}">View on Amazon →</a>
     </div>
   </article>`;
