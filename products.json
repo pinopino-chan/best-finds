@@ -163,5 +163,20 @@
       "short-011"
     ],
     "youtube_id": "kqPIHIqAvrk"
+  },
+  {
+    "id": "012",
+    "asin": "B09C5RG6KV",
+    "title": "Anker Charger, 65W 3-Port Fast Compact Foldable USB C Charger Block for MacBook Pro/Air, iPad Pro, Galaxy S20, Dell XPS 13, Note 20/10+, iPhone 17 Series, Steam Deck, and More",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09C5RG6KV.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09C5RG6KV/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-012"
+    ],
+    "youtube_id": "vrG-Ov9IQPc"
   }
 ]
