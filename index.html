@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Amazon finds featured in our YouTube Shorts.">
+  <title>Best Finds USA</title>
+  <link rel="stylesheet" href="style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./">BEST FINDS USA</a>
+  <button id="menuBtn" class="menu-btn" aria-label="Open menu">☰</button>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="eyebrow">FEATURED IN OUR YOUTUBE SHORTS</p>
+    <h1>Viral finds worth checking out.</h1>
+    <p class="sub">Products featured in our latest Shorts, organized so you can find them fast.</p>
+    <div id="categories" class="chips"></div>
+  </section>
+
+  <section id="shortSection" class="section hidden">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">FROM THIS SHORT</p>
+        <h2 id="shortTitle">Products from this video</h2>
+      </div>
+      <button id="clearShort" class="text-btn">View all</button>
+    </div>
+    <div id="shortGrid" class="grid"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">DISCOVER</p>
+        <h2 id="sectionTitle">Trending now</h2>
+      </div>
+      <div class="search-wrap">
+        <input id="search" type="search" placeholder="Search products…" autocomplete="off">
+      </div>
+    </div>
+    <div id="productGrid" class="grid"></div>
+    <button id="loadMore" class="load-more">Load more</button>
+    <p id="empty" class="empty hidden">No products found.</p>
+  </section>
+</main>
+
+<footer>
+  <p>As an Amazon Associate I earn from qualifying purchases.</p>
+  <p class="small">Prices and availability may change. Check Amazon for the latest information.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

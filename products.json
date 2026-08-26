@@ -1,0 +1,90 @@
+[
+  {
+    "id": "001",
+    "title": "Portable Blender",
+    "price": "$29.99",
+    "category": "Kitchen",
+    "tags": "blender portable smoothie gadget",
+    "image": "https://placehold.co/800x800?text=Product+001",
+    "amazon": "https://www.amazon.com/",
+    "featured": true,
+    "shorts": ["short-001"]
+  },
+  {
+    "id": "002",
+    "title": "LED Desk Lamp",
+    "price": "$24.99",
+    "category": "Home",
+    "tags": "lamp desk office lighting",
+    "image": "https://placehold.co/800x800?text=Product+002",
+    "amazon": "https://www.amazon.com/",
+    "featured": true,
+    "shorts": ["short-001"]
+  },
+  {
+    "id": "003",
+    "title": "Magnetic Phone Stand",
+    "price": "$18.99",
+    "category": "Tech",
+    "tags": "phone stand magnetic desk",
+    "image": "https://placehold.co/800x800?text=Product+003",
+    "amazon": "https://www.amazon.com/",
+    "featured": false,
+    "shorts": ["short-002"]
+  },
+  {
+    "id": "004",
+    "title": "Mini Cordless Vacuum",
+    "price": "$39.99",
+    "category": "Home",
+    "tags": "vacuum car cleaning",
+    "image": "https://placehold.co/800x800?text=Product+004",
+    "amazon": "https://www.amazon.com/",
+    "featured": false,
+    "shorts": ["short-002"]
+  },
+  {
+    "id": "005",
+    "title": "Cable Organizer",
+    "price": "$12.99",
+    "category": "Tech",
+    "tags": "cable organizer desk setup",
+    "image": "https://placehold.co/800x800?text=Product+005",
+    "amazon": "https://www.amazon.com/",
+    "featured": false,
+    "shorts": ["short-003"]
+  },
+  {
+    "id": "006",
+    "title": "Travel Packing Cubes",
+    "price": "$21.99",
+    "category": "Travel",
+    "tags": "travel luggage organizer",
+    "image": "https://placehold.co/800x800?text=Product+006",
+    "amazon": "https://www.amazon.com/",
+    "featured": false,
+    "shorts": ["short-003"]
+  },
+  {
+    "id": "007",
+    "title": "Insulated Water Bottle",
+    "price": "$25.99",
+    "category": "Lifestyle",
+    "tags": "water bottle gym fitness",
+    "image": "https://placehold.co/800x800?text=Product+007",
+    "amazon": "https://www.amazon.com/",
+    "featured": false,
+    "shorts": []
+  },
+  {
+    "id": "008",
+    "title": "Wireless Charging Pad",
+    "price": "$16.99",
+    "category": "Tech",
+    "tags": "wireless charger phone",
+    "image": "https://placehold.co/800x800?text=Product+008",
+    "amazon": "https://www.amazon.com/",
+    "featured": false,
+    "shorts": []
+  }
+]
