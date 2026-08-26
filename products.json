@@ -298,5 +298,20 @@
       "short-020"
     ],
     "youtube_id": "h09vx-HKPdU"
+  },
+  {
+    "id": "021",
+    "asin": "B0DC91H3JK",
+    "title": "Amazon Echo Show 11 (newest model), Vibrant Full-HD 11\" display with more viewing area and spatial audio, Designed for Alexa+, Graphite",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DC91H3JK.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DC91H3JK/?tag=test-20",
+    "featured": false,
+    "shorts": [
+      "short-021"
+    ],
+    "youtube_id": "rppRIrFvcnw"
   }
 ]
