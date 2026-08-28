@@ -1,16 +1,376 @@
 [
   {
     "id": "001",
-    "asin": "B0GDFVNTB4",
-    "title": "Wavytalk IPL Laser Hair Removal,Bare It with Precision Roller for Full Body",
+    "asin": "B0824XNJSW",
+    "title": "No-Touch Thermometer for Adults and Kids, Accurate Digital Baby Thermometer",
+    "price": "",
+    "category": "Health",
+    "tags": "thermometer baby health medical temperature",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0824XNJSW.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0824XNJSW/?tag=pinopino-20",
+    "featured": true,
+    "shorts": [
+      "short-001"
+    ],
+    "youtube_id": "oUBO9AZ2dzc"
+  },
+  {
+    "id": "002",
+    "asin": "B0D6V1H9PM",
+    "title": "Amazon Echo Dot Max, Alexa Speaker with Room-Filling Sound",
+    "price": "",
+    "category": "Audio",
+    "tags": "echo alexa speaker smart home audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D6V1H9PM.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0D6V1H9PM/?tag=pinopino-20",
+    "featured": true,
+    "shorts": [
+      "short-002"
+    ],
+    "youtube_id": "JaebNJBd_Qw"
+  },
+  {
+    "id": "003",
+    "asin": "B0FRRMD96F",
+    "title": "Anker Soundcore 2 Portable Bluetooth Speaker, Stereo Sound, IPX7",
+    "price": "",
+    "category": "Audio",
+    "tags": "bluetooth speaker portable waterproof anker",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FRRMD96F.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0FRRMD96F/?tag=pinopino-20",
+    "featured": true,
+    "shorts": [
+      "short-003"
+    ],
+    "youtube_id": "cukbYoaRpg8"
+  },
+  {
+    "id": "004",
+    "asin": "B0FRF3XGQ4",
+    "title": "Divoom MiniToo Retro PC-Style Computer Speaker, Pixel Screen",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker retro pixel desktop divoom",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FRF3XGQ4.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0FRF3XGQ4/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-004"
+    ],
+    "youtube_id": "YpIAs7wrJ10"
+  },
+  {
+    "id": "005",
+    "asin": "B0DFXV6ZPM",
+    "title": "GravaStar Mercury K1 75% Wireless Mechanical Gaming Keyboard RGB",
+    "price": "",
+    "category": "Gaming",
+    "tags": "keyboard gaming mechanical wireless rgb gravastar",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFXV6ZPM.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DFXV6ZPM/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-005"
+    ],
+    "youtube_id": "U0rAcBpjocI"
+  },
+  {
+    "id": "006",
+    "asin": "B07CRG94G3",
+    "title": "Seagate 2TB Portable Hard Drive | USB 3.0 (STGX2000400)",
+    "price": "",
+    "category": "Tech",
+    "tags": "hard drive storage portable seagate usb",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07CRG94G3.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07CRG94G3/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-006"
+    ],
+    "youtube_id": "NoDInFlXbfc"
+  },
+  {
+    "id": "007",
+    "asin": "B00R3N712M",
+    "title": "Amazon Basics Weighted Medicine Ball for Core Strength Training",
+    "price": "",
+    "category": "Fitness",
+    "tags": "medicine ball fitness strength training exercise",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00R3N712M.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B00R3N712M/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-007"
+    ],
+    "youtube_id": "CFf8jNUmj1U"
+  },
+  {
+    "id": "008",
+    "asin": "B088396TM2",
+    "title": "Resistance Bands Set for Working Out, 4 Booty Bands for Women & Men",
+    "price": "",
+    "category": "Fitness",
+    "tags": "resistance bands fitness exercise legs glute booty",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B088396TM2.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B088396TM2/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-008"
+    ],
+    "youtube_id": "iB68tB1VbmY"
+  },
+  {
+    "id": "009",
+    "asin": "B0B5F9SZW7",
+    "title": "Google Fitbit Inspire 3 Fitness Tracker, Midnight Zen/Black",
+    "price": "",
+    "category": "Fitness",
+    "tags": "fitbit tracker fitness health wearable google",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B5F9SZW7.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0B5F9SZW7/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-009"
+    ],
+    "youtube_id": "s__DEcbW1N0"
+  },
+  {
+    "id": "010",
+    "asin": "B0CC9DXVPF",
+    "title": "Fitness Tracker Watch with Heart Rate Monitor, Activity Tracker",
+    "price": "",
+    "category": "Fitness",
+    "tags": "fitness tracker watch heart rate pedometer waterproof",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CC9DXVPF.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0CC9DXVPF/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-010"
+    ],
+    "youtube_id": "YqwPv4AdRio"
+  },
+  {
+    "id": "011",
+    "asin": "B0GRJVBPH3",
+    "title": "Oura Ring 5 Smart Ring - Silver - Size 9 - Fitness & Sleep Tracker",
+    "price": "",
+    "category": "Fitness",
+    "tags": "fitness tracker exercise health",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0GRJVBPH3.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0GRJVBPH3/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-011"
+    ],
+    "youtube_id": "kqPIHIqAvrk"
+  },
+  {
+    "id": "012",
+    "asin": "B09C5RG6KV",
+    "title": "Anker Charger, 65W 3-Port Fast Compact Foldable USB C Charger Block for MacBook Pro/Air, iPad Pro, Galaxy S20, Dell XPS 13, Note 20/10+, iPhone 17 Series, Steam Deck, and More",
     "price": "",
     "category": "Tech",
     "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09C5RG6KV.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09C5RG6KV/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-012"
+    ],
+    "youtube_id": "vrG-Ov9IQPc"
+  },
+  {
+    "id": "013",
+    "asin": "B0CXGXT6W8",
+    "title": "JLab Go Air Pop+ True Wireless Earbuds, in Ear Headphones, Bluetooth Earphones, 35H Playtime Ear Buds, Bluetooth Earbuds with Microphone, USB-C Charging Case, Dual Connect, EQ3 Sound, Black",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXGXT6W8.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0CXGXT6W8/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-013"
+    ],
+    "youtube_id": "HxycEXSrsIA"
+  },
+  {
+    "id": "014",
+    "asin": "B07D42ZV9D",
+    "title": "j5create USB-C Mini Dock-Type C Hub with 2X HDMI, 2X USB 3.0, Ethernet",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07D42ZV9D.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07D42ZV9D/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-014"
+    ],
+    "youtube_id": "sSHlSvzKHNo"
+  },
+  {
+    "id": "015",
+    "asin": "B09B6XV6VB",
+    "title": "Govee Smart Light Bulbs, A19 Color Changing Light Bulb, 800 LM, E26 Base",
+    "price": "",
+    "category": "Home",
+    "tags": "home gadget organizer",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B6XV6VB.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B6XV6VB/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-015"
+    ],
+    "youtube_id": "-QoMUMHzSuc"
+  },
+  {
+    "id": "016",
+    "asin": "B09NBXDXJW",
+    "title": "Levoit Air Purifier for Home PetsBedroom Dorm Room, Smart & Voice Control",
+    "price": "",
+    "category": "Home",
+    "tags": "home gadget organizer",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09NBXDXJW.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09NBXDXJW/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-016"
+    ],
+    "youtube_id": "OqMxB6yQYKI"
+  },
+  {
+    "id": "017",
+    "asin": "B09BJMY8HL",
+    "title": "Amazon Product B09BJMY8HL",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09BJMY8HL.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09BJMY8HL/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-017"
+    ],
+    "youtube_id": "po7opIqZpqA"
+  },
+  {
+    "id": "018",
+    "asin": "B0FGB69DG7",
+    "title": "Tapo 2K Indoor/Outdoor Pan/Tilt Wired Security Camera, Baby Monitor, C217",
+    "price": "",
+    "category": "Health",
+    "tags": "thermometer baby health medical",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0FGB69DG7.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0FGB69DG7/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-018"
+    ],
+    "youtube_id": "V_b8jvETmz0"
+  },
+  {
+    "id": "019",
+    "asin": "B08HRNYF2J",
+    "title": "Google Nest Thermostat - Smart Thermostat for Home - Programmable Wifi Thermostat - Sand",
+    "price": "",
+    "category": "Home",
+    "tags": "home gadget organizer",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08HRNYF2J.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B08HRNYF2J/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-019"
+    ],
+    "youtube_id": "zkCj_zm-ZcU"
+  },
+  {
+    "id": "020",
+    "asin": "B09B2SBHQK",
+    "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B2SBHQK.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B2SBHQK/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-020"
+    ],
+    "youtube_id": "h09vx-HKPdU"
+  },
+  {
+    "id": "021",
+    "asin": "B0DC91H3JK",
+    "title": "Amazon Echo Show 11 (newest model), Vibrant Full-HD 11\" display with more viewing area and spatial audio, Designed for Alexa+, Graphite",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DC91H3JK.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0DC91H3JK/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-021"
+    ],
+    "youtube_id": "rppRIrFvcnw"
+  },
+  {
+    "id": "022",
+    "asin": "B09B94RL1R",
+    "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Glacier White",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B94RL1R.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B94RL1R/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-022"
+    ],
+    "youtube_id": "g9diTrKEzU4"
+  },
+  {
+    "id": "023",
+    "asin": "B09B9CD1YB",
+    "title": "Amazon Echo Dot Kids (newest model), Smart speaker to enjoy age-appropriate audiobooks, sleep routines and Alexa+ experiences to create and learn, Owl design",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B9CD1YB.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B9CD1YB/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-023"
+    ],
+    "youtube_id": "juke6RKpnQY"
+  },
+  {
+    "id": "024",
+    "asin": "B09B8V1LZ3",
+    "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal",
+    "price": "",
+    "category": "Audio",
+    "tags": "speaker bluetooth audio",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09B8V1LZ3.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B09B8V1LZ3/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-024"
+    ],
+    "youtube_id": "YLe_jGYgZWY"
+  },
+  {
+    "id": "025",
+    "asin": "B0GDFVNTB4",
+    "title": "Wavytalk IPL Laser Hair Removal, Bare It with Precision Roller for Full Body",
+    "price": "",
+    "category": "Health",
+    "tags": "hair removal ipl laser beauty skin",
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0GDFVNTB4.01.LZZZZZZZ.jpg",
     "amazon": "https://www.amazon.com/dp/B0GDFVNTB4/?tag=pinopino-20",
     "featured": false,
     "shorts": [
-      "short-001"
+      "short-025"
     ],
     "youtube_id": "msVlGsTv_Ys"
   }
