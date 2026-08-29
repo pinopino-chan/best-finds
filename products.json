@@ -883,5 +883,20 @@
       "short-059"
     ],
     "youtube_id": "dhPHH_ON-zA"
+  },
+  {
+    "id": "060",
+    "asin": "B07V4GCFP9",
+    "title": "Nintendo Switch Lite - Turquoise",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07V4GCFP9.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07V4GCFP9/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-060"
+    ],
+    "youtube_id": "i4SeIIgZAWo"
   }
 ]
