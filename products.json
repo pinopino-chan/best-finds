@@ -508,5 +508,20 @@
       "short-034"
     ],
     "youtube_id": "9Sawm1YwHjw"
+  },
+  {
+    "id": "035",
+    "asin": "B07594HZ6Y",
+    "title": "Amazon Product B07594HZ6Y",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07594HZ6Y.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B07594HZ6Y/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-035"
+    ],
+    "youtube_id": "tfiRb2PnjOE"
   }
 ]
