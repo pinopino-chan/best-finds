@@ -1768,5 +1768,20 @@
       "short-118"
     ],
     "youtube_id": "I2A-t8c4V2U"
+  },
+  {
+    "id": "119",
+    "asin": "B0F1HX3WXX",
+    "title": "Amazon Product B0F1HX3WXX",
+    "price": "",
+    "category": "Tech",
+    "tags": "tech gadget",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0F1HX3WXX.01.LZZZZZZZ.jpg",
+    "amazon": "https://www.amazon.com/dp/B0F1HX3WXX/?tag=pinopino-20",
+    "featured": false,
+    "shorts": [
+      "short-119"
+    ],
+    "youtube_id": "EY14jzSy3Dg"
   }
 ]
